@@ -28,5 +28,10 @@
     "id":"pt",
     "name":"Português (Not finished)",
     "authors": "<li> <a href=\"https://github.com/TheGhostOfInky\" >TheGhostOfInky</a></li>"
+  },
+  {
+    "id":"vn",
+    "name":"VN-CSVN",
+    "authors": "<li> <a href=\"https://github.com/CSVN-DC-HP" >CSVN-DC-HP</a></li>"
   }
 ]
